@@ -1,4 +1,4 @@
-This is a demo website created in Agile project. [ RURUR3 ]
+This is a dumb website created in Agile project. [ RURUR3 ]
 
 
 Edited readme.
